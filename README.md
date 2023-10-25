@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello, my name is Nick Hosman and I am a former Millworker/Finisher. Around the beginning of the pandemic, work dried up for me a bit and I found myself with some extra time on my hands to explore an old hobby of mine, programming.
+
+During this self study I realized that I really enjoyed the process of taking a problem and working to find / execute the most efficient solution within my abilities. After spending a decent amount of my free time messing around with Python I decided to try to pursue this as a career and starting looking into coding boot camps.
+
+I spent quite awhile researching and looking at different boot camp options, but eventually settled on App Academy as the best option for me. I enrolled in their Full Time Online Web Development course and spent 6 months in one of the most challenging and rewarding environments of my life. The skills and capabilities I learned while at App Academy have laid the foundation for what I hope is a long career in the field of Software Development.
+
+I have come out of the boot camp with so many new skills including JavaScript, React with Redux, HTML / CSS and a stronger understanding of Python as well. I used all of these technologies and more to create several projects that I am proud of and can not wait to create even more.
 <!--
 **nickhosman/nickhosman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
